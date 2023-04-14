@@ -1,0 +1,133 @@
+#navbar1{
+  background-color: #272727;
+  color: rgb(255, 255, 255);
+}ZZZZ
+.navbar-nav .nav-item {
+  margin-right: 20px;
+  
+}
+#section1{
+  background-color: #000000;
+  
+}
+.hero-heading{
+  font-family:outfit;
+  font-size: 42px;
+  color:white;
+}
+.hero-section {
+  background-color: #f8f8f8;
+  padding: 100px 0;
+}
+
+.hero-section h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.hero-section p {
+  font-size: 24px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.hero-section .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.hero-section .btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+
+.container {
+  
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#section3{
+  background-color: #e6e6e6;;
+}
+
+.grid-item {
+  background-color: #ffffff;
+  border: 1px solid #c2bdff;
+  height: 100%;
+  padding: 30px;
+  text-align: center;
+  
+}
+.icon1{
+  padding: 10px;
+}
+.grid-item i {
+  display: block;
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 767px) {
+  .grid-item {
+    margin-bottom: 20px;
+  }
+}
+
+
+
+.main-container {
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.card {
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+}
+
+.card-1 {
+  background-color: #fff;
+}
+
+.card-2 {
+  background-color: #f2f2f2;
+}
+
+.card-body {
+  padding: 30px;
+}
+
+.card-title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.card-text {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #002fb1;
+  border-color: #002fb1;
+}
+
+.btn-primary:hover {
+  background-color: #005cbe;
+  border-color: #0062cc;
+}
+
+
+
+
+
+
